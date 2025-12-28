@@ -2,7 +2,8 @@
 
 Un template de portfolio moderne, élégant et entièrement personnalisable, développé avec React et Tailwind CSS.
 
-![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Template)
+![Portfolio Preview](/readme_ressources/white_theme.png)
+![Portfolio Preview](/readme_ressources/dark_theme.png)
 
 ## ✨ Fonctionnalités
 
@@ -24,7 +25,7 @@ Un template de portfolio moderne, élégant et entièrement personnalisable, dé
 
 ```bash
 # Cloner le repository
-git clone https://github.com/votre-username/portfolio-template.git
+git clone https://github.com/Luxinenglish/pink_portfolio_template.git
 
 # Aller dans le dossier
 cd portfolio-template
