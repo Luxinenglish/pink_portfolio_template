@@ -248,12 +248,12 @@ Ce template a été créé pour offrir une solution simple et élégante pour cr
 ## 📞 Support
 
 Si vous avez des questions ou besoin d'aide :
-- 📧 Email : votre.email@exemple.com
-- 🐛 Issues : [GitHub Issues](https://github.com/votre-username/portfolio-template/issues)
-- 💬 Discussions : [GitHub Discussions](https://github.com/votre-username/portfolio-template/discussions)
+- 📧 Email : j.brochard@aplosn.fr
+- 🐛 Issues : [GitHub Issues](https://github.com/luxinenglish/pink_portfolio_template/issues)
+- 💬 Discussions : [GitHub Discussions](https://github.com/luxinenglish/pink_portfolio_template/discussions)
 
 ---
 
-⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile sur GitHub !
+⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile !
 
 **Fait avec ❤️ et React**
