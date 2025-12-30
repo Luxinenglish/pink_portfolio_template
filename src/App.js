@@ -24,7 +24,7 @@ export default function PortfolioTemplate() {
       fr: "Une description accrocheuse de votre parcours et de vos passions.",
       en: "A catchy description of your background and passions."
     },
-    photoUrl: "https://via.placeholder.com/300",
+    photoUrl: "/img/img.png",
 
     // À propos
     about: {
@@ -406,7 +406,7 @@ export default function PortfolioTemplate() {
                         }`}
                     >
                       {activeSection === section.id && (
-                          <span className="absolute inset-0 bg-gradient-to-r from-pink-500 to-rose-500 rounded-2xl -z-10 shadow-lg"></span>
+                          <span className="absolute inset-0 bg-gradient-to-r from-pink-500 to-rose-500 rounded-2xl -z-10 shadow-lg transition-all duration-500 ease-out"></span>
                       )}
                       <span className="relative z-10">{section.label}</span>
                     </button>
