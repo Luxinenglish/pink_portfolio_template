@@ -24,7 +24,7 @@ export default function PortfolioTemplate() {
       fr: "Une description accrocheuse de votre parcours et de vos passions.",
       en: "A catchy description of your background and passions."
     },
-    photoUrl: "/img/img.png",
+    photoUrl: "/img/me.png",
 
     // À propos
     about: {
@@ -51,7 +51,7 @@ export default function PortfolioTemplate() {
           en: "Detailed description of your first project."
         },
         skills: ["Compétence A", "Compétence B"],
-        imageUrl: "https://via.placeholder.com/400x300"
+        imageUrl: "/img/realisations/realisation.png"
       },
       {
         title: { fr: "Projet 2", en: "Project 2" },
@@ -60,7 +60,7 @@ export default function PortfolioTemplate() {
           en: "Detailed description of your second project."
         },
         skills: ["Compétence C", "Compétence D"],
-        imageUrl: "https://via.placeholder.com/400x300"
+        imageUrl: "/img/realisations/realisation_1.png"
       },
       {
         title: { fr: "Projet 3", en: "Project 3" },
@@ -85,7 +85,7 @@ export default function PortfolioTemplate() {
           fr: ["Matériaux : ...", "Échelle : ..."],
           en: ["Materials: ...", "Scale: ..."]
         },
-        imageUrl: "https://via.placeholder.com/500x400"
+        imageUrl: "/img/creations/creation.png"
       },
       {
         title: { fr: "Création 2", en: "Creation 2" },
@@ -97,7 +97,7 @@ export default function PortfolioTemplate() {
           fr: ["Matériaux : ...", "Échelle : ..."],
           en: ["Materials: ...", "Scale: ..."]
         },
-        imageUrl: "https://via.placeholder.com/500x400"
+        imageUrl: "/img/creations/creation_1.png"
       }
     ],
 
